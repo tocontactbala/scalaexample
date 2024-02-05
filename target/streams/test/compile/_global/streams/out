@@ -1,0 +1,31 @@
+[0m[[0m[31merror[0m] [0m[0mC:\development\scalaexample\src\test\scala\ShoppingCartSpec.scala:1:8: not found: object utils[0m
+[0m[[0m[31merror[0m] [0m[0mimport utils.SpecBase[0m
+[0m[[0m[31merror[0m] [0m[0m       ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\development\scalaexample\src\test\scala\ShoppingCartSpec.scala:4:36: not found: type SpecBase[0m
+[0m[[0m[31merror[0m] [0m[0m  class CheckoutSystemSpec extends SpecBase {[0m
+[0m[[0m[31merror[0m] [0m[0m                                   ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\development\scalaexample\src\test\scala\ShoppingCartSpec.scala:5:22: value should is not a member of String[0m
+[0m[[0m[31merror[0m] [0m[0m    "CheckoutSystem" should "calculate the total cost without any offers" in {[0m
+[0m[[0m[31merror[0m] [0m[0m                     ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\development\scalaexample\src\test\scala\ShoppingCartSpec.scala:7:23: not found: value CheckoutSystem[0m
+[0m[[0m[31merror[0m] [0m[0m      val totalCost = CheckoutSystem.checkout(items)[0m
+[0m[[0m[31merror[0m] [0m[0m                      ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\development\scalaexample\src\test\scala\ShoppingCartSpec.scala:11:5: not found: value it[0m
+[0m[[0m[31merror[0m] [0m[0m    it should "apply the buy one, get one free offer on Apples" in {[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\development\scalaexample\src\test\scala\ShoppingCartSpec.scala:13:23: not found: value CheckoutSystem[0m
+[0m[[0m[31merror[0m] [0m[0m      val totalCost = CheckoutSystem.checkout(items)[0m
+[0m[[0m[31merror[0m] [0m[0m                      ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\development\scalaexample\src\test\scala\ShoppingCartSpec.scala:17:5: not found: value it[0m
+[0m[[0m[31merror[0m] [0m[0m    it should "apply the 3 for the price of 2 offer on Oranges" in {[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\development\scalaexample\src\test\scala\ShoppingCartSpec.scala:19:23: not found: value CheckoutSystem[0m
+[0m[[0m[31merror[0m] [0m[0m      val totalCost = CheckoutSystem.checkout(items)[0m
+[0m[[0m[31merror[0m] [0m[0m                      ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\development\scalaexample\src\test\scala\ShoppingCartSpec.scala:23:5: not found: value it[0m
+[0m[[0m[31merror[0m] [0m[0m    it should "apply both offers" in {[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\development\scalaexample\src\test\scala\ShoppingCartSpec.scala:25:23: not found: value CheckoutSystem[0m
+[0m[[0m[31merror[0m] [0m[0m      val totalCost = CheckoutSystem.checkout(items)[0m
+[0m[[0m[31merror[0m] [0m[0m                      ^[0m
+[0m[[0m[31merror[0m] [0m[0m10 errors found[0m

@@ -1,0 +1,29 @@
+[0m[[0m[0mdebug[0m] [0m[0mCreated transactional ClassFileManager with tempDir = C:\development\scalaexample\target\scala-2.13\classes.bak[0m
+[0m[[0m[0mdebug[0m] [0m[0mAbout to delete class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ShoppingCartDemo$Apple$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ShoppingCartDemo.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ShoppingCartDemo$Orange$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ShoppingCartDemo$Main$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ShoppingCartDemo$Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ShoppingCartDemo$CheckoutSystem$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ShoppingCartDemo$Item.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mWe backup class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ShoppingCartDemo$Apple$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ShoppingCartDemo.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ShoppingCartDemo$Orange$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ShoppingCartDemo$Main$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ShoppingCartDemo$Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ShoppingCartDemo$CheckoutSystem$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ShoppingCartDemo$Item.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mRegistering generated classes:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Orange.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CheckoutSystem.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Orange$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Item.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CheckoutSystem$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Apple.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Apple$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mRemoving the temporary directory used for backing up class files: C:\development\scalaexample\target\scala-2.13\classes.bak[0m
